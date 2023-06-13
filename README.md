@@ -2,7 +2,7 @@
 
 Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
 
-![](https://i0.wp.com/media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?ssl=1)
+<img src="https://i0.wp.com/media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?ssl=1" width="850px">
 
 - 🚀 Atualmente estou aprendendo: <strong>JS, PY, HTML, XML, MD </strong> 
 - 💬 Pergunte-me sobre: <strong>Programação / Banco de Dados / Módulo MM SAP</strong>
