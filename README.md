@@ -1,6 +1,6 @@
 # [João Victor] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="60px">
 
-Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE e Porto Digital.  </strong> 👨🏻‍💻 
+Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
 
 ![](https://i0.wp.com/media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?ssl=1)
 
