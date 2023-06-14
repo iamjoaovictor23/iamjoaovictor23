@@ -1,4 +1,4 @@
-# [João Victor] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="60px">
+# [João Victor] <img src="https://media.tenor.com/hW95K5EhxJEAAAAC/breaking-bad-walter-white-franzeta.gif" width="60px">
 
 Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
 
