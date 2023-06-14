@@ -1,4 +1,4 @@
-# [João Victor] <img src="https://media.tenor.com/hW95K5EhxJEAAAAC/breaking-bad-walter-white-franzeta.gif" width="60px">
+# [João Victor] <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="80px">
 
 Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
 
@@ -8,7 +8,7 @@ Eu sou <strong>João Victor </strong>, <strong> estudante do Senac-PE/Porto Digi
 - 💬 Pergunte-me sobre: <strong>Programação / Banco de Dados / Módulo MM SAP</strong>
 - 📣 Nós podemos falar em: <strong>Portuguese and English </strong>
 
-<div align="center">
+<div align="left">
 
   <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
